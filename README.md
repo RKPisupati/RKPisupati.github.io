@@ -1,2 +1,1 @@
-# RKPisupati.github.io
-Ravi Kumar Pisupati
+# Ravi Kumar Pisupati
